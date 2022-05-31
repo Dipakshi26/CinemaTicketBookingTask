@@ -1,0 +1,4 @@
+Lucknow,YJHD,9,6
+Lucknow,ZNMD,9,6
+Lucknow,3Idiots,6,9
+Lucknow,Mission Impossible,9,6
